@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="./malvin-lab-banner.png" alt="MALVIN-LAB — cybersecurity learning lab. Linux, Python, networking, and cybersecurity." width="100%" />
-</p>
-
-<p align="center">
   <img
     src="./profile.jpg"
     alt="Foto pemilik MALVIN-LAB"
     width="180"
   />
 </p>
+
+<p align="center">
+  <img src="./malvin-lab-banner.png" alt="MALVIN-LAB — cybersecurity learning lab. Linux, Python, networking, and cybersecurity." width="100%" />
+</p>
+
 <h1 align="center">MALVIN-LAB</h1>
 <p align="center"><strong>Linux · Python · Networking · Cybersecurity</strong></p>
 <p align="center">Learning how systems work, how networks connect, and how to protect them.</p>
