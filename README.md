@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/malvin-lab-banner.png" alt="MALVIN-LAB — cybersecurity learning lab. Linux, Python, networking, and cybersecurity." width="100%" />
+  <img src="./malvin-lab-banner.png" alt="MALVIN-LAB — cybersecurity learning lab. Linux, Python, networking, and cybersecurity." width="100%" />
 </p>
 
 <h1 align="center">MALVIN-LAB</h1>
